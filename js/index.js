@@ -904,6 +904,15 @@ default = {
                 },
                 url: "https://github.com/BYVoid",
                 desc: "\u300aNode.js \u5f00\u53d1\u6307\u5357\u300b\u4f5c\u8005\uff0c\u5c31\u804c\u4e8eFacebook\u3002"
+            },
+            {
+                id: "w4ctech",
+                name: "w4ctech",
+                logo: {
+                    url: "/static/images/w4ctech.png"
+                },
+                url: "https://www.w4ctech.cn",
+                desc: "\u98ce\u8d77\u4e8e\u9752\u840d\u4e4b\u672b\u002c\u6d6a\u6210\u4e8e\u5fae\u6f9c\u4e4b\u95f4\u3002"
             }]
         },
         {
@@ -1180,7 +1189,7 @@ function(t, e, n) {
     //         ide: "icon-editor",
     //         gameFramework: "icon-youxi",
     //         fontIcon: "icon-ziti",
-    //         
+    //
     //         excellentFrontEndEngineer: "icon-usersecret",
     //         fePortals: "icon-gongju",
     //         inlineTools: "icon-tool",
@@ -1613,7 +1622,7 @@ function(module, exports) {
 	        with(obj) {
 	            __p += "<div>\n";
 	            var endYear = (new Date).getFullYear();
-	            __p += "\nCopyright \xa9  " + (null == (__t = endYear) ? "": __t) + '\n<a href="http://www.5ih5.org/">\n   \u543e\u7231\u0068\u0035\n</a>\n</div>'
+	            __p += "\nCopyright \xa9  " + (null == (__t = endYear) ? "": __t) + '\n<a href="http://secsb.js.org/">\n   \u0073\u0065\u0063\u0073\u0062\u000d\u000a\n</a>\n</div>'
 	        }
 	        return __p
 	    }
